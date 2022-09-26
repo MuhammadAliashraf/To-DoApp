@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+button{
+  background-color: rgb(131, 131, 255);
+  border: none;
+  color: white;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+  
+}
+.btn-green{
+  background-color: green;
+}
+.btn-danger{
+  background-color: red;
+}
+input{
+  border: none;
+  height: 20px;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  padding-left: 10px;
+}
+li{
+  text-decoration: none;
+  text-align: center;
+  list-style: circle;
+}
